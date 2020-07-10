@@ -1,3 +1,4 @@
+<img src="./balloon.gif" width="50">
 ### Hi there 👋
 
 <!--

@@ -1,7 +1,8 @@
 <img src="https://github.com/Hitsuki9/Hitsuki9/raw/master/balloon.gif" width="50">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hitsuki9">
 
 ### Hi there 👋
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hitsuki9&show_icons=true">
 
 <!--
 **Hitsuki9/Hitsuki9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

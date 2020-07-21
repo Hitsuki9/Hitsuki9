@@ -1,4 +1,4 @@
-<img style="display: inline-block;" src="https://github.com/Hitsuki9/Hitsuki9/raw/master/balloon.gif" width="50">
+<img src="https://github.com/Hitsuki9/Hitsuki9/raw/master/balloon.gif" width="50">
 
 ### Hi there 👋
 

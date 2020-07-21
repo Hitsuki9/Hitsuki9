@@ -1,5 +1,5 @@
 <img src="https://github.com/Hitsuki9/Hitsuki9/raw/master/balloon.gif" width="50">
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hitsuki9)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hitsuki9">
 
 ### Hi there 👋
 

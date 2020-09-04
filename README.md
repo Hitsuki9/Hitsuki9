@@ -9,3 +9,5 @@
 ![](https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat-square&logo=Vue.js&logoColor=fff)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hitsuki9&show_icons=true">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hitsuki9)](https://github.com/ryo-ma/github-profile-trophy)

@@ -10,6 +10,6 @@
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=Hitsuki9&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitsuki9&langs_count=8&layout=compact" />
+  <img style="height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitsuki9&langs_count=8&layout=compact" />
 </div>
 <img src="https://github-profile-trophy.vercel.app/?username=Hitsuki9" />

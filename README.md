@@ -19,4 +19,3 @@
   <img height="230" src="https://github-readme-stats.vercel.app/api?username=Hitsuki9&show_icons=true&include_all_commits=true" />
   <img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitsuki9&langs_count=5" />
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=Hitsuki9" />

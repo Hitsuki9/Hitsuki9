@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/-Nintendo%20Switch-%23E60012?style=flat-square&logo=Nintendo%20Switch&logoColor=fff)
 ![](https://img.shields.io/badge/-PlayStation-%23003791?style=flat-square&logo=PlayStation&logoColor=fff)
 ![](https://img.shields.io/badge/-Steam-%23000000?style=flat-square&logo=Steam&logoColor=fff)
+![](https://img.shields.io/badge/-Epic%20Games-%23313131?style=flat-square&logo=Epic%20Games&logoColor=fff)
 
 <p align="left">
   <img height="230" src="https://github-readme-stats.vercel.app/api?username=Hitsuki9&show_icons=true&include_all_commits=true" />
